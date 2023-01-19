@@ -1,7 +1,8 @@
 # Book Search Engine
 ![Github license](https://img.shields.io/badge/license-MIT-lightblueblue.svg)
 
-## Description
+## **Description** 
+
 MERN Application used to search/explore, add, and delete books. 
 
 View the deployed application at: https://booksearchengine23.herokuapp.com/ 
